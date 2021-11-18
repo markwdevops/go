@@ -13,3 +13,6 @@ func Hello(name string) string {
 func main() {
 	fmt.Println(Hello("world"))
 }
+
+Finished here;
+https://github.com/markwdevops/go
